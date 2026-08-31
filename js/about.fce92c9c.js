@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkinvest_game"]=self["webpackChunkinvest_game"]||[]).push([[594],{1690:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var u=t(6768);const r={class:"about"};function s(n,e){return(0,u.uX)(),(0,u.CE)("div",r,[...e[0]||(e[0]=[(0,u.Lk)("h1",null,"Обучающая игра про инвестирование",-1)])])}var a=t(1241);const c={},i=(0,a.A)(c,[["render",s]]);var f=i}}]);
+//# sourceMappingURL=about.fce92c9c.js.map
